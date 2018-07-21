@@ -1,0 +1,41 @@
+
+.discursores {
+    font-family:'Malgun Gothic',sans-serif; 
+    line-height: 1.3;
+    padding: 50px;
+}
+
+.discursores  h1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #08708A;
+    
+}
+.discursores  h2,h3{
+    padding: 10px;
+}
+
+.discursores  h2{
+    padding-left:10px;
+    color: #08708A;
+    
+}
+.discursores h3{
+    padding-left:15px;
+    font-weight: 100;
+}
+
+.discursores h4{
+    font-weight: 100;
+}
+
+
+
+.discursores img {
+    width:165px ;
+    height:205px ;
+    padding: 5px;
+}
+#divisao
+{padding-bottom:30px;}
+

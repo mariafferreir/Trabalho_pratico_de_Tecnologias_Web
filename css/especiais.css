@@ -1,0 +1,44 @@
+
+.especiais {
+    font-family:'Malgun Gothic',sans-serif; 
+    line-height: 1.3;
+    padding: 50px;
+}
+
+.especiais  h1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #08708A;
+}
+.especiais  h2,h3,h4,h5{
+    color: #08708A;
+    padding: 10px;
+}
+.especiais p{
+    font-weight: bold;
+}
+
+.especiais  h2{
+    padding-left:10px;
+}
+.especiais  h3{
+    padding-left:15px;
+}
+.especiais  h4{
+    padding-left:20px;
+}
+
+.especiais  h5{
+    padding-left:25px;
+}
+.especiais ul {
+    padding: 30px;
+}
+
+.especiais li {
+    list-style-type:none;
+    
+}
+#divisao
+{padding-bottom:30px;}
+

@@ -1,0 +1,18 @@
+
+.contactos {
+    font-family:'Malgun Gothic',sans-serif; 
+    line-height: 1.3;
+    padding: 50px;
+}
+
+.contactos  h1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #08708A;
+}
+
+#divisao p{
+    margin-bottom: 40px;
+    
+}
+

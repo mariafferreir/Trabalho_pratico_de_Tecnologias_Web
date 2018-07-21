@@ -1,0 +1,34 @@
+
+
+.sociais {
+    font-family:'Malgun Gothic',sans-serif; 
+    line-height: 1.3;
+    padding: 50px;
+}
+
+.sociais  h1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #08708A;
+}
+.sociais  h2,h3,h4,h5{
+    color: #08708A;
+    padding: 10px;
+}
+
+.sociais  h2{
+    padding-left:10px;
+}
+.sociais h3{
+    padding-left:15px;
+}
+
+
+.sociais p{
+    padding: 5px;
+    padding-left:20px;
+}
+
+#divisao
+{padding-bottom:30px;}
+

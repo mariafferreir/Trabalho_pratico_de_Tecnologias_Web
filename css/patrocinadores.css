@@ -1,0 +1,20 @@
+
+.patrocinadores {
+    font-family:'Malgun Gothic',sans-serif; 
+    text-align:center;
+    color: #08708A;
+    line-height: 1.3;
+}
+.patrocinadores h1{
+    padding-top: 30px;
+    padding-bottom: 20px; 
+}
+
+.patrocinadores h3{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+img{
+    margin-bottom: 20px;
+}

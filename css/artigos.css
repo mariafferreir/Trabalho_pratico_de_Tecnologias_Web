@@ -1,0 +1,121 @@
+fieldset{
+    height:100%;
+    width:100%
+    margin: 0;
+}
+
+form{
+    width:100%;
+    display: block;
+    padding-top: 100px;
+}
+
+form p{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20 ; 
+    font-weight: 200;
+    font-family:'Malgun Gothic',sans-serif;
+}
+
+.botoes{
+    font-family: 'Malgun Gothic',sans-serif;
+    font-size: 20px;
+    font-weight:600;
+    border:none;
+    background-color: #08708A;
+    color: #CBC5C1;
+    cursor: pointer;
+    border-radius: 5px;
+    padding:2px 15px;
+    box-shadow: 5px 5px 5px #56B1BF;
+}
+
+.botoes:hover{
+   opacity: 0.8;
+}
+
+.botoes:active{
+    background-color:#56B1BF;
+    box-shadow: 0 0px 0 #56B1BF;
+    opacity: 1;
+}
+
+input, textarea{
+
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #08708A;
+    border-radius: 4px;
+}
+
+fieldset p{
+    font-family:'Malgun Gothic',sans-serif;
+    line-height: 0.8;
+    color: #08708A;
+    text-align:center;
+    font-weight:900; 
+}
+
+input[type=text], input[type=email], input[type=number]{
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #08708A;
+    border-radius: 4px;
+}
+
+.slider{
+    width:10opx;
+}
+
+h1{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #08708A;
+    text-align: center;
+    font-family:'Malgun Gothic',sans-serif; 
+    line-height: 1.3;
+    
+}
+
+.textoprincipal2 p{
+    font-family:'Malgun Gothic',sans-serif;
+    line-height: 1.3;
+    text-align:center;
+    font-weight:5;
+    margin-top:50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+}
+
+.textoprincipal2 a{
+    text-decoration: none;
+    color:#08708A;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20 ; 
+    font-weight: 900;
+    font-size: 20px;
+    font-family:'Malgun Gothic',sans-serif;
+}
+
+.textoprincipal2 a:hover{
+    color:#56B1BF;
+}
+
+#insertinputs{
+    width: 100%;
+    height: 10%;
+}
+
+#mc_valor3{
+    display: block;
+    position: relative;
+    height: 100px;
+    width: 100%;
+}
